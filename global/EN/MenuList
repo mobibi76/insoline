@@ -1,0 +1,3 @@
+<ul>
+    <li><a href="#!Home" onclick="introFetch('Home')">Contact Info</a></li>
+</ul>
